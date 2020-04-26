@@ -11,9 +11,9 @@ gid add .
 
 Los ficheros seleccionados se muestran en un apartado "Cambios almacenados provisionalmente". Escriba el mensaje descriptivo del commit en la caja superior y pulse Ctrl+Intro
 
-# HABILITAR SSH
+HABILITAR SSH
 
-# Antes de introducir la tarjeta a la raspberry, desde el pc creamos un fichero vacio así:
+Antes de introducir la tarjeta a la raspberry, desde el pc creamos un fichero vacio así:
 
 ssh
 
